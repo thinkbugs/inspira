@@ -2,8 +2,10 @@
   "schema": 1,
   "release": "models-v1",
   "baseUrl": "https://github.com/thinkbugs/inspira/releases/download/models-v1/",
+  "releaseUrl": "https://github.com/thinkbugs/inspira/releases/tag/models-v1",
   "generatedAt": "2026-11-10",
-  "status": "pending-upload",
+  "publishedAt": "2026-11-11",
+  "status": "published",
   "models": [
     {
       "id": "asr-sensevoice-small-int8",
