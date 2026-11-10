@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "release": "models-v1",
+  "baseUrl": "https://github.com/thinkbugs/inspira/releases/download/models-v1/",
+  "generatedAt": "2026-11-10",
+  "status": "pending-upload",
+  "models": [
+    {
+      "id": "asr-sensevoice-small-int8",
+      "dir": "asr-sensevoice-small-int8",
+      "displayName": "SenseVoice-Small（中文主档）",
+      "files": [
+        {
+          "name": "model.int8.onnx",
+          "size": 239233841,
+          "sha256": "c71f0ce00bec95b07744e116345e33d8cbbe08cef896382cf907bf4b51a2cd51",
+          "url": "https://github.com/thinkbugs/inspira/releases/download/models-v1/model.int8.onnx"
+        },
+        {
+          "name": "tokens.txt",
+          "size": 315894,
+          "sha256": "f449eb28dc567533d7fa59be34e2abca8784f771850c78a47fb731a31429a1dc",
+          "url": "https://github.com/thinkbugs/inspira/releases/download/models-v1/tokens.txt"
+        }
+      ]
+    },
+    {
+      "id": "emb-embeddinggemma2-270m",
+      "dir": "emb-embeddinggemma2-270m",
+      "displayName": "EmbeddingGemma 2 270M（256d 截断）",
+      "files": [
+        {
+          "name": "model.litertlm",
+          "size": 164626432,
+          "sha256": "2d079ee2f6f066b1f368e8d7c819f55214eaef1d0513b312321901f30ab286fb",
+          "url": "https://github.com/thinkbugs/inspira/releases/download/models-v1/model.litertlm"
+        }
+      ]
+    },
+    {
+      "id": "llm-gemma3-1b-int4",
+      "dir": "llm-gemma3-1b-int4",
+      "displayName": "Gemma 3 1B int4（Tier B 摘要，可选）",
+      "files": [
+        {
+          "name": "gemma3-1b-it-int4.litertlm",
+          "size": 584417280,
+          "sha256": "1325ae366d31950f137c9c357b9fa89448b176d76998180c08ceaca78bba98be",
+          "url": "https://github.com/thinkbugs/inspira/releases/download/models-v1/gemma3-1b-it-int4.litertlm"
+        }
+      ]
+    }
+  ]
+}
